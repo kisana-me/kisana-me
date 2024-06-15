@@ -2,4 +2,4 @@
 - 👀 I’m interested in RoR, Next.js
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on creating unique social media
-- 📫 @kisana@amiverse.net
+- 📫 @kisana at amiverse.net / api.amiverse.net / ivecolor.com / kisana.me/ bealive.amiverse.net
