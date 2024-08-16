@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kisana528
-- 👀 I’m interested in RoR, Next.js
+- 👋 Hi, I’m @kisana-me
+- 👀 I’m interested in Ruby on Rails, Next.js
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on creating unique social media
-- 📫 @kisana at amiverse.net / api.amiverse.net / ivecolor.com / kisana.me/ bealive.amiverse.net
+- 📫 @kisana_me at amiverse.net / api.amiverse.net / ivecolor.com / kisana.me / bealive.amiverse.net
