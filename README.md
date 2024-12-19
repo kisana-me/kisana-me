@@ -1,0 +1,25 @@
+# 🌟 Welcome to My GitHub Profile!
+## 🚀 About Me
+- 👋 Hi, I’m @kisana-me
+- 👀 I’m interested in Ruby on Rails, Next.js
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on creating unique social media
+
+## 📫 How to Reach Me
+- 📧 Email: [kisana@amiverse.net](mailto:kisana@amiverse.net?subject=[from:GitHub]%20お問い合わせ)
+- 🐦 X: [@kisana_me](https://x.com/kisana_me)
+- 🪐 Amiverse: [@kisana](https://amiverse.net/@kisana)
+
+## Products
+- **Amiverse**  
+Social Media [amiverse.net](https://amiverse.net)
+- **IVECOLOR**  
+BLOG & Article [ivecolor.com](https://ivecolor.com)
+- **KISANA:ME**  
+Portfolio [kisana.me](https://kisana.me)
+- **BeAlive.**  
+Survival Confirmation [bealive.amiverse.net](https://bealive.amiverse.net)
+- **得句巣**  
+漢字限定投稿可能電子掲示板 [x.amiverse.net](https://x.amiverse.net)
+- **AMS**  
+Amiverse Minecraft Server [mc.amiverse.net](https://mc.amiverse.net)
