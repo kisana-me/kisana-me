@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on creating unique social media
 
 ## 📫 How to Reach Me
-- 📧 Email: [kisana@amiverse.net](mailto:kisana@amiverse.net?subject=[from:GitHub]%20お問い合わせ)
+- ~~📧 Email: [kisana@amiverse.net](mailto:kisana@amiverse.net?subject=[from:GitHub]%20お問い合わせ)~~
 - 🐦 X: [@kisana_me](https://x.com/kisana_me)
 - 🪐 Amiverse: [@kisana](https://amiverse.net/@kisana)
 
