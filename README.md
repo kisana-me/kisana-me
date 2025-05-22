@@ -11,6 +11,8 @@
 - 🪐 Amiverse: [@kisana](https://amiverse.net/@kisana)
 
 ## Products
+- **ANYUR**  
+Account Manager [anyur.com](https://anyur.com)
 - **Amiverse**  
 Social Media [amiverse.net](https://amiverse.net)
 - **IVECOLOR**  
