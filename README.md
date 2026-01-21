@@ -25,6 +25,7 @@ Survival Confirmation [bealive.amiverse.net](https://bealive.amiverse.net)
 漢字限定投稿可能電子掲示板 [x.amiverse.net](https://x.amiverse.net)
 - **AMS**  
 Amiverse Minecraft Server [mc.amiverse.net](https://mc.amiverse.net)
+- iveme
 
 ## 💫 Hackathon
 - **ceres**  
